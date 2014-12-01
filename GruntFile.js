@@ -16,10 +16,6 @@ module.exports = function(grunt) {
                 files: ['**/*.scss'],
                 tasks: ['sass', 'concat', 'cssmin']
             },
-            toml: {
-                files: ['**/*.toml'],
-                tasks: ['video']
-            },
             js: {
                 files: ['public/js/*.js'],
                 tasks: ['concat', 'uglify', 'jshint']

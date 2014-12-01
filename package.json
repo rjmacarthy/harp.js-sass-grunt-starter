@@ -1,15 +1,15 @@
 {
-  "name": "yldbooks",
+  "name": "Harpjs Grunt Bourbon SASS",
   "version": "1.0.0",
-  "description": "YLD Node Books",
+  "description": "Harpjs Boilterplace using Grunt and Bourbon SASS",
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "YLD",
-    "Node.js",
-    "Books"
+    "Harp.js",
+    "Grunt",
+    "Bourbon SASS"
   ],
   "author": "rjmacarthy",
   "license": "ISC",
