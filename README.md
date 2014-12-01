@@ -1,7 +1,3 @@
-#YLD Video Site and Blog
-
-Video blog for YLD using Harp.js
-
 #Installation
 
 ```sh
