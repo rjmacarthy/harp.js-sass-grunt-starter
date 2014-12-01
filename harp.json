@@ -1,0 +1,12 @@
+{
+	"globals" : {
+		"baseUrl" : "",
+		"twitterUrl" : "",
+		"linkedInUrl" : "",
+		"googlePlusUrl" : "",
+		"gitHubUrl" : "",
+		"disquss" : "richardmacarthy",
+		"aboutUrl" : "http://about.me/pedroteixeira",
+		"blogUrl" : "http://blog.yld.io/"
+	}
+}

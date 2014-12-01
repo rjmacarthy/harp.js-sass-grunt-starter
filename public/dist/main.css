@@ -1,0 +1,42 @@
+/*
+    Imports
+/*----------------------------------------------*/
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+/*
+    Breakpoints
+/*----------------------------------------------*/
+@font-face {
+  font-family: proximanova;
+  font-weight: bold;
+  src: url("../fonts/proximanova.otf") format("opentype"); }
+
+@font-face {
+  font-family: proximanovalight;
+  font-weight: bold;
+  src: url("../fonts/proximanovalight.otf") format("opentype"); }
+
+.hidden {
+  display: none !important; }
+
+/*
+    Colours
+/*----------------------------------------------*/
+/*
+    General styles
+/*----------------------------------------------*/
+body, html {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: 'proximanova'; }
+
+/*
+    Header
+/*----------------------------------------------*/
+/*
+    Footer
+/*----------------------------------------------*/
