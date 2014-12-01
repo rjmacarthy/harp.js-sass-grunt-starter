@@ -9,19 +9,6 @@
 /*
     Breakpoints
 /*----------------------------------------------*/
-@font-face {
-  font-family: proximanova;
-  font-weight: bold;
-  src: url("../fonts/proximanova.otf") format("opentype"); }
-
-@font-face {
-  font-family: proximanovalight;
-  font-weight: bold;
-  src: url("../fonts/proximanovalight.otf") format("opentype"); }
-
-.hidden {
-  display: none !important; }
-
 /*
     Colours
 /*----------------------------------------------*/
@@ -31,8 +18,7 @@
 body, html {
   height: 100%;
   padding: 0;
-  margin: 0;
-  font-family: 'proximanova'; }
+  margin: 0; }
 
 /*
     Header
