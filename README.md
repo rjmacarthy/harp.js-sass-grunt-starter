@@ -1,3 +1,7 @@
+# Harp.js-SASS-Grunt-Boilterplate
+
+A [Harpjs](http://www.harpjs.com/ "harpjs.com") boilerplate using [Bourbon SASS, NEAT](http://bourbon.io/ "bourbon.io") and [Grunt](http://www.gruntjs.com/ "gruntjd.com")
+
 #Installation
 
 ```sh
@@ -11,7 +15,7 @@ Install dependencies
 $sudo npm install
 ```
 
-Run grunt
+Grunt
 
 ```sh
 grunt
